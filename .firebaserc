@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "assignment2db-8fc96": {
+      "hosting": {
+        "assignment2": [
+          "assignment2db-8fc96"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "assignment2db-8fc96"
+  }
+}

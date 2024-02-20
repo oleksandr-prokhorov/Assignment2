@@ -1,0 +1,14 @@
+{
+  "hosting": [
+    {
+      "target": "assignment2",
+      "source": ".",
+      "frameworksBackend": {
+        "region": "us-central1"
+      }
+    }
+  ],
+  "database": {
+    "rules": "database.rules.json"
+  }
+}
